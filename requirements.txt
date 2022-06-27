@@ -1,0 +1,16 @@
+# install to run the ilm-runner
+regex
+transformers
+torch
+gdown
+
+# install to host FASTAPI
+uvicorn
+
+# installed next
+FastAPI
+gunicorn
+uvloop
+httptools
+
+# git clone https://github.com/seduerr91/ilm-api.git
